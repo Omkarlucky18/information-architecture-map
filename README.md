@@ -2,24 +2,25 @@
 
 ## Intern Details
 
-- **Intern Name:** Your Full Name
-- **Intern ID:** Your Intern ID
+- **Intern Name:** A Omkar Pranav
+- **Intern ID:** [Enter Your Intern ID]
 - **Project Name:** Information Architecture Map
-- **Duration:** Your Internship Duration
+- **Duration:** 4 Weeks
 
 ---
 
 ## Project Overview
 
-This project presents an Information Architecture (IA) Map for the Amazon application. It organizes the application's navigation structure into a clear hierarchy, making it easier for users to find information and complete tasks.
+This project presents an Information Architecture (IA) Map for the Amazon application. The objective is to organize the application's content and navigation into a clear hierarchical structure, helping users easily find information and complete tasks efficiently.
 
 ---
 
 ## Objectives
 
-- Understand Information Architecture.
+- Understand the concept of Information Architecture.
 - Design a clear navigation hierarchy.
-- Improve usability through structured content organization.
+- Improve user experience through organized content.
+- Create a professional IA diagram using Draw.io.
 
 ---
 
@@ -45,4 +46,4 @@ README.md
 
 ## Conclusion
 
-The Information Architecture Map demonstrates a simple and organized navigation structure for the Amazon application, helping improve user experience.
+The Information Architecture Map provides a structured navigation model for the Amazon application. This project demonstrates how proper content organization improves usability and enhances the overall user experience.
