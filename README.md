@@ -2,8 +2,8 @@
 
 ## Intern Details
 
-- **Intern Name:** A Omkar Pranav
-- **Intern ID:** [Enter Your Intern ID]
+- **Intern Name:** A.Omkar Pranav
+- **Intern ID:** Andirka Omkar Pranav
 - **Project Name:** Information Architecture Map
 - **Duration:** 4 Weeks
 
